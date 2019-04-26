@@ -1,0 +1,22 @@
+{
+  "name": "clickygame",
+  "version": "1.0.0",
+  "description": "week 19 - Fun Game on React Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgwynn36/clickyGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgwynn36/clickyGame/issues"
+  },
+  "homepage": "https://github.com/jgwynn36/clickyGame#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
