@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-undef */
 //import dependencies
 import React, {
   Component
@@ -7,7 +6,6 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Wrapper";
 import Footer from "./components/Footer";
 import cartoon from "./cartoon.json";
-import "./App.css";
 
 //Set state
 class App extends Component {
